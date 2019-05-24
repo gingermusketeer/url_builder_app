@@ -2,6 +2,8 @@
   "app": {
     "description":  "Simple url generator",
     "name":         "Simple Url",
+    "installation_instructions": "Upload zip file",
+    "long_description": "Simple URL",
 
     "parameters": {
       "uri_templates": {
